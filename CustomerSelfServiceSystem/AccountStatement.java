@@ -25,7 +25,7 @@ public class AccountStatement extends javax.swing.JFrame {
     static double avg=0.0;
 
     /**
-     * Creates new form AccountStatement
+     * Creates new form AccountStatement132345356356
      */
     
      public AccountStatement() {
